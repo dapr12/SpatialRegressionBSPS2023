@@ -51,7 +51,7 @@ To get started with this tutorial, you will need to download the tutorial materi
 
 Next, extract the contents of the ZIP file using your preferred unzip software, such as 7ZIP or Win-ZIP.
 
-The files include: -- two sets of 40 PowerPoint slides -- one Tutorial guide, providing some sketchy answers to the set tasks@ --  Full code for cleaning the India data yourself to study any other aspect of Indian society using 'Periodic Labour-Force Survey' 2017/8 or 2018/9. Use all these for self-managed learning. 
+The files include: -- three PowerPoint slides -- one Tutorial guide, providing some sketchy answers to the set tasks@ --  Full code for cleaning the India data yourself to study any other aspect of Indian society using 'Periodic Labour-Force Survey' 2017/8 or 2018/9. Use all these for self-managed learning. 
 
 During the workshop, if you have a question, please raise your hand, and someone will assist you.
 
