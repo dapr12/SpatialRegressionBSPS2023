@@ -103,6 +103,13 @@ STAN is an open-source probabilistic programming language that is commonly used 
 
 In the tutorial materials, you will find examples of spatial regression models implemented in STAN. You will learn how to write and run Bayesian models for spatial analysis using STAN.
 
+#### How to install STAN?
+
+Instructions for downloading, installing, and getting started with RStan on all platforms. See:
+
+
+https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started
+
 
 #### Spatial Models
 
