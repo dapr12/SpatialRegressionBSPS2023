@@ -111,6 +111,12 @@ Instructions for downloading, installing, and getting started with RStan on all 
 https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started
 
 
+#### How to install INLA?
+
+
+To install the INLA-package in R, you have to manually add the r-inla repository. See: https://www.r-inla.org/download-install
+
+
 #### Spatial Models
 
 Spatial regression models allow you to investigate how spatial relationships affect the variables of interest. These models can be used to analyze spatial patterns, identify clusters, and make predictions while accounting for spatial dependencies.
